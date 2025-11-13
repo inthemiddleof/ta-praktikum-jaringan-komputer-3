@@ -1,6 +1,7 @@
 Proyek ini merupakan simulasi pengujian konektivitas jaringan menggunakan Cisco Packet Tracer. Proyek ini adalah proyek sederhana tentang bagaimana VLAN dan Trunking bekerja pada sebuah jaringan.
 
 🧩 Topologi Jaringan
+
 ![Topologi Jaringan](https://github.com/user-attachments/assets/e10c7df1-7c6f-4d91-a2d9-f53839075843)
 
 | Perangkat         | Interface        | IP Address                          | Subnet Mask   |
